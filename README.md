@@ -1,3 +1,3 @@
 # developtools
 开发工具
-mybatis
+tams-codegenerator：mybatis代码生成工具
